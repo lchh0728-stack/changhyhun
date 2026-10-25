@@ -1,0 +1,12 @@
+# 큰 파일 (50MB 이상)
+The Rise of E-Commerce in China*.pptx
+
+# 개인 사진
+KakaoTalk_*.jpg
+
+# 이름/학번이 들어간 문서, 입사지원서
+*Lee Chang Hyun*
+%ec%9e%85%ec%82%ac%ec%a7%80%ec%9b%90%ec%84%9c(%ea%b0%84%ed%8e%b8).doc
+
+# Claude 설정
+.claude/
